@@ -1,3 +1,13 @@
+Added by Jason Liu:
+
+Mario can throw masks at the dragon who emits Covid-w19 virus
+
+
+
+
+
+/*** below are the original readme file***/
+
 SIMPLE MARIO GAME IN PYTHON
 
 
